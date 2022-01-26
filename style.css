@@ -1,0 +1,10 @@
+.login-form{
+    margin: 50px 500px;
+    border: 5px dotted rgb(197, 18, 18);
+    padding: 50px;
+    background-color: rgb(24, 102, 47);
+    border-radius: 50px;
+}
+.input-field{
+    margin: 10px;
+}
